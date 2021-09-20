@@ -1,0 +1,211 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.headerSectionOne {
+    display: flex;
+    flex-direction: row;
+}
+
+.menuHamburgButton {
+    width: 24px;
+    height: 24px;
+    padding: 8px;
+}
+
+.youTubeIcon {
+    width: 90px;
+    height: 20px;
+    padding-left: 16px;
+    padding-right: 14px;
+    padding-top: 11px;
+    padding-bottom: 18px;
+}
+
+.headerSectionOne input[type=text] {
+    padding: 6px;
+    width: 500px;
+}
+
+.headerMenuIcon {
+    width: 24px;
+    height: 24px;
+    margin-right: 15px;
+    padding-right: 10px;
+}
+
+.searchMic {
+    width: 24px;
+    height: 24px;
+}
+
+.searchButton {
+    width: 24px;
+    height: 24px;
+    padding: 6px 10px;
+}
+
+.headerSectionThree {
+    display: flex;
+    flex-direction: row;
+}
+
+.header {
+    padding: 9px;
+}
+
+.mainSection {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+}
+
+.menuList {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.centreSection {
+    display: flex;
+    flex-direction: column;
+}
+
+.topHorizontalList {
+    display: flex;
+    flex-direction: row;
+}
+
+.innerList1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.innerListIcon {
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 16px;
+    width: 24px;
+    height: 24px;
+    border-radius: 20px;
+}
+
+.lastFooter {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn {
+    width: 50px;
+    height: 30px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: brown;
+    margin-left: 9px;
+    margin-right: 9px;
+    padding-bottom: 15px;
+}
+
+.horizontalList {
+    display: flex;
+    flex-direction: row;
+}
+
+.thumail {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.cardViewImg {
+    width: 10px;
+    height: 10px;
+}
+
+.logoRow {
+    display: flex;
+    flex-direction: row;
+    width: 42px;
+    height: 42px;
+}
+
+video {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.video2 {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.vidDetail {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 45px;
+    /* justify-content: space-between; */
+}
+
+.icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 80px;
+}
+
+.vidDetails {
+    padding-left: 10px;
+}
+
+.spn {
+    margin-left: 50px;
+    font-size: 14px;
+    color: #9d9d9d;
+}
+
+.spn2 {
+    margin-left: 50px;
+    font-size: 14px;
+    color: #9d9d9d;
+}
+
+.bottomVideoDetails {
+    display: flex;
+    flex-direction: row;
+    height: 15px;
+}
+
+.bottomVideoDetails2 {
+    display: flex;
+    flex-direction: row;
+    height: 15px;
+    margin-left: 25px;
+}
+
+.spn3 {
+    margin-left: 10px;
+    font-size: 14px;
+    color: #9d9d9d;
+}
+
+.vid {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    justify-content: space-evenly;
+}
+
+.thumbImag {
+    width: 252px;
+    height: 141px;
+}
