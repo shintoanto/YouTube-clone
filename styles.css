@@ -40,7 +40,7 @@
 }
 
 .headerSectionOne input[type=text] {
-    padding: 6px;
+    padding: 10px;
     width: 500px;
 }
 
@@ -83,12 +83,24 @@
     flex-direction: column;
     padding: 10px;
     margin-top: 70px;
+    height: 700px;
+    overflow-y: scroll;
+}
+
+.menuList::-webkit-scrollbar {
+    display: none;
 }
 
 .centreSection {
     display: flex;
     flex-direction: column;
     margin-top: 33px;
+    height: 800px;
+    overflow-y: scroll;
+}
+
+.centreSection::-webkit-scrollbar {
+    display: none;
 }
 
 .topHorizontalList {
